@@ -1,0 +1,5 @@
+package exemplo
+
+func PrintX() {
+	
+}
